@@ -100,7 +100,6 @@ notebooks/deblurring.ipynb        blur operator, UNetDeblur, both sampling
                                   algorithms, metrics, classical baselines
 notebooks/decolorization.ipynb    DeColor operator, compact U-Net, evaluation
 figures/                          qualitative comparisons and metric plots
-thesis.pdf                        full write-up including theoretical chapters
 ```
 
 Both notebooks are written for Colab and expect CelebA-HQ mounted from Drive.
