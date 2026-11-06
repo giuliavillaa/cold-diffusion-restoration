@@ -3,8 +3,8 @@
 PyTorch reimplementation of the Cold Diffusion framework (Bansal et al., 2022),
 testing whether deterministic image degradation can be inverted without stochastic noise.
 
-Bachelor thesis, BSc in Artificial Intelligence — University of Pavia,
-University of Milano-Bicocca, University of Milan, 2024–25.
+Bachelor thesis, BSc in Artificial Intelligence, University of Pavia,
+University of Milano-Bicocca, University of Milan, 2024/25.
 Supervisor: Prof. Claudio Cusano.
 
 ![Qualitative comparison on the DeColor task](figures/cold-diffusion.jpg)
